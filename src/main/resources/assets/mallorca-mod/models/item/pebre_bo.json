@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mallorca-mod:item/pebre_bo"
+  }
+}
